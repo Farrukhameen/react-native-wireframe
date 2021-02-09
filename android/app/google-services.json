@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781819412037",
+    "firebase_url": "https://sapphire-bookingapproval.firebaseio.com",
+    "project_id": "sapphire-bookingapproval",
+    "storage_bucket": "sapphire-bookingapproval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781819412037:android:934609785b3fbe41a6ad2c",
+        "android_client_info": {
+          "package_name": "com.sapphire.bookingapproval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781819412037-0ssbn7grp62d79fiqo801psflajtiddo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2MWIh4Lr8zaTwKRpnip_TOni0o-RU6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781819412037-0ssbn7grp62d79fiqo801psflajtiddo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
